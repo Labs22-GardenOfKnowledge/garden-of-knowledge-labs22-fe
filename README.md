@@ -1,8 +1,3 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/d7cd0bec7a79ce0d7fa1/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/speak-out-fe/maintainability)
-
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d7cd0bec7a79ce0d7fa1/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/speak-out-fe/test_coverage)
-
-
 # Speak Out
 
 You can find the deployed project at [speak-out-bh.com](https://speak-out-bh.com/).
