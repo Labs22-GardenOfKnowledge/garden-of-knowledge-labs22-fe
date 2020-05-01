@@ -1,4 +1,4 @@
-const productionURL = `https://garden-of-knowledge-labs22.herokuapp.com/`;
+const productionURL = `https://garden-of-knowledge-labs22.herokuapp.com`;
 const localhost = `http://localhost:4000`;
 
 
